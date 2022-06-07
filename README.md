@@ -10,6 +10,9 @@ This game uses several native Win32 API calls such as (SetWindowPos, GetWindowRe
 
 <h2><b>PLEASE DO NOT USE THIS CODE FOR MALICIOUS PURPOSES. THIS WAS MADE FOR FUN ONLY. I DO NOT TAKE ANY RESPONSIBILITY FOR ANY DAMAGE DONE USING THIS PROGRAM OR ANY FORMS OF IT</b></h2>
 
+<h1>How to run</h1>
+The project can either be compiled from the source code or downloaded from the <b>Releases</b> section on this repository.
+
 <h1>Known Bugs</h1>
 <ul>
   <li>Collisions are not accurate at high speeds for some windows.</li>
