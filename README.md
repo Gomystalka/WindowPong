@@ -28,3 +28,6 @@ I will upload a gameplay video soon.
   <li>More accurate collisions</li>
   <li>User interface</li>
 </ul>
+
+<h1>Credits</h1>
+<b>Kongtext.ttf font is a completely free-to-use font. I have uploaded it to this reposity as this program relies on it!</b>
