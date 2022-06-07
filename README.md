@@ -19,7 +19,7 @@ This game uses several native Win32 API calls such as (SetWindowPos, GetWindowRe
 </ul>
 
 <h1>Gameplay</h1>
-I will upload a gameplay video soon.
+[![Gameplay Video](https://img.youtube.com/vi/oK2VVlvyIA4/0.jpg)](https://www.youtube.com/watch?v=oK2VVlvyIA4)
 
 <h1>Planned Features</h1>
 <ul>
