@@ -19,7 +19,7 @@ This game uses several native Win32 API calls such as (SetWindowPos, GetWindowRe
 </ul>
 
 <h1>Gameplay</h1>
-[![Gameplay Video](https://img.youtube.com/vi/oK2VVlvyIA4/0.jpg)](https://www.youtube.com/watch?v=oK2VVlvyIA4)
+<a href="https://youtu.be/oK2VVlvyIA4"><img src="http://img.youtube.com/vi/oK2VVlvyIA4/0.jpg" title="Window Pong Gameplay Demo"/></a>
 
 <h1>Planned Features</h1>
 <ul>
