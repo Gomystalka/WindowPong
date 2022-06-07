@@ -13,7 +13,7 @@ using WindowPong.Utility;
  *  Window Pong - Turn any 3 windows into a pong game using the power of the Windows API!
  *  Uses Native Function Calls from Kernel32.dll and User32.dll.
  *  Only tested on Windows 10 using .Net Framework Version 4.6.1.
- *  This application uses the same game loop as my Java 2D Game Engine (which ported poorly).
+ *  This application uses the same game loop as Minecraft supposedly
 */
 namespace WindowPong {
     public class WindowPong {
