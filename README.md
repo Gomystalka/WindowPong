@@ -28,7 +28,6 @@ The project can either be compiled from the source code or downloaded from the <
 <ul>
   <li>Sound Effects</li>
   <li>Multiplayer (Maybe)</li>
-  <li>More accurate collisions</li>
   <li>User interface</li>
   <li>In-depth comments</li>
 </ul>
