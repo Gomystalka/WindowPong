@@ -136,7 +136,7 @@ namespace WindowPong.Utility
             return RepeatString(GetTab(), count);
         }
 
-        public static string GetTab()
+        public static string GetTab() //I don't remember why I needed this tbh, like \t exists?!
         {
             return RepeatCharacter(' ', 8);
         }
